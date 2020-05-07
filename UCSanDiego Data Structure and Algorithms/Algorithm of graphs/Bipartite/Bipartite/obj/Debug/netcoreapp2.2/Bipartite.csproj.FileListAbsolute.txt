@@ -1,0 +1,10 @@
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Bipartite\Bipartite\bin\Debug\netcoreapp2.2\Bipartite.deps.json
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Bipartite\Bipartite\bin\Debug\netcoreapp2.2\Bipartite.runtimeconfig.json
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Bipartite\Bipartite\bin\Debug\netcoreapp2.2\Bipartite.runtimeconfig.dev.json
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Bipartite\Bipartite\bin\Debug\netcoreapp2.2\Bipartite.dll
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Bipartite\Bipartite\bin\Debug\netcoreapp2.2\Bipartite.pdb
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Bipartite\Bipartite\obj\Debug\netcoreapp2.2\Bipartite.csproj.CoreCompileInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Bipartite\Bipartite\obj\Debug\netcoreapp2.2\Bipartite.AssemblyInfoInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Bipartite\Bipartite\obj\Debug\netcoreapp2.2\Bipartite.AssemblyInfo.cs
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Bipartite\Bipartite\obj\Debug\netcoreapp2.2\Bipartite.dll
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Bipartite\Bipartite\obj\Debug\netcoreapp2.2\Bipartite.pdb

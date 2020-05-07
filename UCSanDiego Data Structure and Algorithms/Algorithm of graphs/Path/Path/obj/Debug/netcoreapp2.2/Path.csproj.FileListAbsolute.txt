@@ -1,0 +1,10 @@
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Path\Path\bin\Debug\netcoreapp2.2\Path.deps.json
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Path\Path\bin\Debug\netcoreapp2.2\Path.runtimeconfig.json
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Path\Path\bin\Debug\netcoreapp2.2\Path.runtimeconfig.dev.json
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Path\Path\bin\Debug\netcoreapp2.2\Path.dll
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Path\Path\bin\Debug\netcoreapp2.2\Path.pdb
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Path\Path\obj\Debug\netcoreapp2.2\Path.csproj.CoreCompileInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Path\Path\obj\Debug\netcoreapp2.2\Path.AssemblyInfoInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Path\Path\obj\Debug\netcoreapp2.2\Path.AssemblyInfo.cs
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Path\Path\obj\Debug\netcoreapp2.2\Path.dll
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Path\Path\obj\Debug\netcoreapp2.2\Path.pdb

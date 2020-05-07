@@ -1,0 +1,11 @@
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Dijkstra\Dijkstra\bin\Debug\netcoreapp2.2\Dijkstra.deps.json
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Dijkstra\Dijkstra\bin\Debug\netcoreapp2.2\Dijkstra.runtimeconfig.json
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Dijkstra\Dijkstra\bin\Debug\netcoreapp2.2\Dijkstra.runtimeconfig.dev.json
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Dijkstra\Dijkstra\bin\Debug\netcoreapp2.2\Dijkstra.dll
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Dijkstra\Dijkstra\obj\Debug\netcoreapp2.2\Dijkstra.csproj.CoreCompileInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Dijkstra\Dijkstra\obj\Debug\netcoreapp2.2\Dijkstra.AssemblyInfoInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Dijkstra\Dijkstra\obj\Debug\netcoreapp2.2\Dijkstra.AssemblyInfo.cs
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Dijkstra\Dijkstra\obj\Debug\netcoreapp2.2\Dijkstra.csprojAssemblyReference.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Dijkstra\Dijkstra\bin\Debug\netcoreapp2.2\Dijkstra.pdb
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Dijkstra\Dijkstra\obj\Debug\netcoreapp2.2\Dijkstra.dll
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Dijkstra\Dijkstra\obj\Debug\netcoreapp2.2\Dijkstra.pdb

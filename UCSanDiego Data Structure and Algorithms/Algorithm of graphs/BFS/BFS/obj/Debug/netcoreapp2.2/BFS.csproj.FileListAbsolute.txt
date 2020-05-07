@@ -1,0 +1,10 @@
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\BFS\BFS\bin\Debug\netcoreapp2.2\BFS.deps.json
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\BFS\BFS\bin\Debug\netcoreapp2.2\BFS.runtimeconfig.json
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\BFS\BFS\bin\Debug\netcoreapp2.2\BFS.runtimeconfig.dev.json
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\BFS\BFS\bin\Debug\netcoreapp2.2\BFS.dll
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\BFS\BFS\bin\Debug\netcoreapp2.2\BFS.pdb
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\BFS\BFS\obj\Debug\netcoreapp2.2\BFS.csproj.CoreCompileInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\BFS\BFS\obj\Debug\netcoreapp2.2\BFS.AssemblyInfoInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\BFS\BFS\obj\Debug\netcoreapp2.2\BFS.AssemblyInfo.cs
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\BFS\BFS\obj\Debug\netcoreapp2.2\BFS.dll
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\BFS\BFS\obj\Debug\netcoreapp2.2\BFS.pdb

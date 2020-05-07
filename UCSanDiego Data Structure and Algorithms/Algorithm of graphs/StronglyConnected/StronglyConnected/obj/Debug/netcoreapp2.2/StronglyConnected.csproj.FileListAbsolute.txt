@@ -1,0 +1,10 @@
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\StronglyConnected\StronglyConnected\bin\Debug\netcoreapp2.2\StronglyConnected.deps.json
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\StronglyConnected\StronglyConnected\bin\Debug\netcoreapp2.2\StronglyConnected.runtimeconfig.json
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\StronglyConnected\StronglyConnected\bin\Debug\netcoreapp2.2\StronglyConnected.runtimeconfig.dev.json
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\StronglyConnected\StronglyConnected\bin\Debug\netcoreapp2.2\StronglyConnected.dll
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\StronglyConnected\StronglyConnected\bin\Debug\netcoreapp2.2\StronglyConnected.pdb
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\StronglyConnected\StronglyConnected\obj\Debug\netcoreapp2.2\StronglyConnected.csproj.CoreCompileInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\StronglyConnected\StronglyConnected\obj\Debug\netcoreapp2.2\StronglyConnected.AssemblyInfoInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\StronglyConnected\StronglyConnected\obj\Debug\netcoreapp2.2\StronglyConnected.AssemblyInfo.cs
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\StronglyConnected\StronglyConnected\obj\Debug\netcoreapp2.2\StronglyConnected.dll
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\StronglyConnected\StronglyConnected\obj\Debug\netcoreapp2.2\StronglyConnected.pdb

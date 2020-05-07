@@ -1,0 +1,11 @@
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Reachablity\Reachablity\bin\Debug\netcoreapp2.2\Reachablity.deps.json
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Reachablity\Reachablity\bin\Debug\netcoreapp2.2\Reachablity.runtimeconfig.json
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Reachablity\Reachablity\bin\Debug\netcoreapp2.2\Reachablity.runtimeconfig.dev.json
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Reachablity\Reachablity\bin\Debug\netcoreapp2.2\Reachablity.dll
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Reachablity\Reachablity\bin\Debug\netcoreapp2.2\Reachablity.pdb
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Reachablity\Reachablity\obj\Debug\netcoreapp2.2\Reachablity.csprojAssemblyReference.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Reachablity\Reachablity\obj\Debug\netcoreapp2.2\Reachablity.csproj.CoreCompileInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Reachablity\Reachablity\obj\Debug\netcoreapp2.2\Reachablity.AssemblyInfoInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Reachablity\Reachablity\obj\Debug\netcoreapp2.2\Reachablity.AssemblyInfo.cs
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Reachablity\Reachablity\obj\Debug\netcoreapp2.2\Reachablity.dll
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Reachablity\Reachablity\obj\Debug\netcoreapp2.2\Reachablity.pdb
