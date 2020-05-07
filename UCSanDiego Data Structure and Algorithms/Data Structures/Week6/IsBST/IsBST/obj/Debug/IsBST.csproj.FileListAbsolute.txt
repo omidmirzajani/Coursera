@@ -1,0 +1,6 @@
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week6\IsBST\IsBST\bin\Debug\IsBST.exe.config
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week6\IsBST\IsBST\bin\Debug\IsBST.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week6\IsBST\IsBST\bin\Debug\IsBST.pdb
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week6\IsBST\IsBST\obj\Debug\IsBST.csproj.CoreCompileInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week6\IsBST\IsBST\obj\Debug\IsBST.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week6\IsBST\IsBST\obj\Debug\IsBST.pdb

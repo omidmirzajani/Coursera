@@ -1,0 +1,6 @@
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week1\Network\Network\bin\Debug\Network.exe.config
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week1\Network\Network\bin\Debug\Network.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week1\Network\Network\bin\Debug\Network.pdb
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week1\Network\Network\obj\Debug\Network.csproj.CoreCompileInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week1\Network\Network\obj\Debug\Network.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week1\Network\Network\obj\Debug\Network.pdb

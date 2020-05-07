@@ -1,0 +1,7 @@
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week3\MakeHeap\MakeHeap\bin\Debug\MakeHeap.exe.config
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week3\MakeHeap\MakeHeap\bin\Debug\MakeHeap.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week3\MakeHeap\MakeHeap\bin\Debug\MakeHeap.pdb
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week3\MakeHeap\MakeHeap\obj\Debug\MakeHeap.csprojAssemblyReference.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week3\MakeHeap\MakeHeap\obj\Debug\MakeHeap.csproj.CoreCompileInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week3\MakeHeap\MakeHeap\obj\Debug\MakeHeap.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week3\MakeHeap\MakeHeap\obj\Debug\MakeHeap.pdb
