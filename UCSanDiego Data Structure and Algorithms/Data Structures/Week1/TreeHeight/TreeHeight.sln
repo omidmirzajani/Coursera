@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeHeight", "TreeHeight\TreeHeight.csproj", "{522D1F31-C4CD-43C5-A949-91CA7AC89FFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{522D1F31-C4CD-43C5-A949-91CA7AC89FFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522D1F31-C4CD-43C5-A949-91CA7AC89FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522D1F31-C4CD-43C5-A949-91CA7AC89FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522D1F31-C4CD-43C5-A949-91CA7AC89FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A16DBCE0-75D1-42C4-B1F1-BA0D05D6021E}
+	EndGlobalSection
+EndGlobal
