@@ -1,0 +1,6 @@
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week6\PartitioningSuveniers\PartitioningSuveniers\bin\Debug\PartitioningSuveniers.exe.config
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week6\PartitioningSuveniers\PartitioningSuveniers\bin\Debug\PartitioningSuveniers.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week6\PartitioningSuveniers\PartitioningSuveniers\bin\Debug\PartitioningSuveniers.pdb
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week6\PartitioningSuveniers\PartitioningSuveniers\obj\Debug\PartitioningSuveniers.csproj.CoreCompileInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week6\PartitioningSuveniers\PartitioningSuveniers\obj\Debug\PartitioningSuveniers.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week6\PartitioningSuveniers\PartitioningSuveniers\obj\Debug\PartitioningSuveniers.pdb

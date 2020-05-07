@@ -1,0 +1,7 @@
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week3\Maximum Number of Prizes\Maximum Number of Prizes\bin\Debug\Maximum Number of Prizes.exe.config
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week3\Maximum Number of Prizes\Maximum Number of Prizes\bin\Debug\Maximum Number of Prizes.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week3\Maximum Number of Prizes\Maximum Number of Prizes\bin\Debug\Maximum Number of Prizes.pdb
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week3\Maximum Number of Prizes\Maximum Number of Prizes\obj\Debug\Maximum Number of Prizes.csprojAssemblyReference.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week3\Maximum Number of Prizes\Maximum Number of Prizes\obj\Debug\Maximum Number of Prizes.csproj.CoreCompileInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week3\Maximum Number of Prizes\Maximum Number of Prizes\obj\Debug\Maximum Number of Prizes.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week3\Maximum Number of Prizes\Maximum Number of Prizes\obj\Debug\Maximum Number of Prizes.pdb

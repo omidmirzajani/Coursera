@@ -1,0 +1,7 @@
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week3\Maximum Value of the Loot\Maximum Value of the Loot\bin\Debug\Maximum Value of the Loot.exe.config
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week3\Maximum Value of the Loot\Maximum Value of the Loot\bin\Debug\Maximum Value of the Loot.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week3\Maximum Value of the Loot\Maximum Value of the Loot\bin\Debug\Maximum Value of the Loot.pdb
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week3\Maximum Value of the Loot\Maximum Value of the Loot\obj\Debug\Maximum Value of the Loot.csproj.CoreCompileInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week3\Maximum Value of the Loot\Maximum Value of the Loot\obj\Debug\Maximum Value of the Loot.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week3\Maximum Value of the Loot\Maximum Value of the Loot\obj\Debug\Maximum Value of the Loot.pdb
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week3\Maximum Value of the Loot\Maximum Value of the Loot\obj\Debug\Maximum Value of the Loot.csprojAssemblyReference.cache

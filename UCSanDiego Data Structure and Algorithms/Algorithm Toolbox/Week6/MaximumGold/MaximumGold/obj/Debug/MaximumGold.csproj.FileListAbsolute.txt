@@ -1,0 +1,6 @@
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week6\MaximumGold\MaximumGold\bin\Debug\MaximumGold.exe.config
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week6\MaximumGold\MaximumGold\bin\Debug\MaximumGold.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week6\MaximumGold\MaximumGold\bin\Debug\MaximumGold.pdb
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week6\MaximumGold\MaximumGold\obj\Debug\MaximumGold.csproj.CoreCompileInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week6\MaximumGold\MaximumGold\obj\Debug\MaximumGold.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week6\MaximumGold\MaximumGold\obj\Debug\MaximumGold.pdb

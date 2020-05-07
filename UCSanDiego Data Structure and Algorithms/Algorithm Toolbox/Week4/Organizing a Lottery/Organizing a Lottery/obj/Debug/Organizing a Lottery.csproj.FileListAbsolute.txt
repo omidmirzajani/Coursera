@@ -1,0 +1,6 @@
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week4\Organizing a Lottery\Organizing a Lottery\bin\Debug\Organizing a Lottery.exe.config
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week4\Organizing a Lottery\Organizing a Lottery\bin\Debug\Organizing a Lottery.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week4\Organizing a Lottery\Organizing a Lottery\bin\Debug\Organizing a Lottery.pdb
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week4\Organizing a Lottery\Organizing a Lottery\obj\Debug\Organizing a Lottery.csproj.CoreCompileInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week4\Organizing a Lottery\Organizing a Lottery\obj\Debug\Organizing a Lottery.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week4\Organizing a Lottery\Organizing a Lottery\obj\Debug\Organizing a Lottery.pdb
