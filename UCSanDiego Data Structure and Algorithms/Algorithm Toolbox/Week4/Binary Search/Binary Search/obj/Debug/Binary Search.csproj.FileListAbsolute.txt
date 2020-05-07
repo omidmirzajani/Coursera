@@ -1,0 +1,7 @@
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week4\Binary Search\Binary Search\bin\Debug\Binary Search.exe.config
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week4\Binary Search\Binary Search\bin\Debug\Binary Search.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week4\Binary Search\Binary Search\bin\Debug\Binary Search.pdb
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week4\Binary Search\Binary Search\obj\Debug\Binary Search.csprojAssemblyReference.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week4\Binary Search\Binary Search\obj\Debug\Binary Search.csproj.CoreCompileInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week4\Binary Search\Binary Search\obj\Debug\Binary Search.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week4\Binary Search\Binary Search\obj\Debug\Binary Search.pdb

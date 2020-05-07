@@ -1,0 +1,6 @@
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week5\PrimitiveCalc\PrimitiveCalc\obj\Debug\PrimitiveCalc.csproj.CoreCompileInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week5\PrimitiveCalc\PrimitiveCalc\bin\Debug\PrimitiveCalc.exe.config
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week5\PrimitiveCalc\PrimitiveCalc\bin\Debug\PrimitiveCalc.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week5\PrimitiveCalc\PrimitiveCalc\bin\Debug\PrimitiveCalc.pdb
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week5\PrimitiveCalc\PrimitiveCalc\obj\Debug\PrimitiveCalc.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week5\PrimitiveCalc\PrimitiveCalc\obj\Debug\PrimitiveCalc.pdb

@@ -1,0 +1,7 @@
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week5\MoneyChangeAgain\MoneyChangeAgain\bin\Debug\MoneyChangeAgain.exe.config
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week5\MoneyChangeAgain\MoneyChangeAgain\bin\Debug\MoneyChangeAgain.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week5\MoneyChangeAgain\MoneyChangeAgain\bin\Debug\MoneyChangeAgain.pdb
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week5\MoneyChangeAgain\MoneyChangeAgain\obj\Debug\MoneyChangeAgain.csprojAssemblyReference.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week5\MoneyChangeAgain\MoneyChangeAgain\obj\Debug\MoneyChangeAgain.csproj.CoreCompileInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week5\MoneyChangeAgain\MoneyChangeAgain\obj\Debug\MoneyChangeAgain.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week5\MoneyChangeAgain\MoneyChangeAgain\obj\Debug\MoneyChangeAgain.pdb

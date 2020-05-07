@@ -1,0 +1,7 @@
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week3\Collecting Signatures\Collecting Signatures\obj\Debug\Collecting Signatures.csprojAssemblyReference.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week3\Collecting Signatures\Collecting Signatures\obj\Debug\Collecting Signatures.csproj.CoreCompileInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week3\Collecting Signatures\Collecting Signatures\bin\Debug\Collecting Signatures.exe.config
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week3\Collecting Signatures\Collecting Signatures\bin\Debug\Collecting Signatures.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week3\Collecting Signatures\Collecting Signatures\bin\Debug\Collecting Signatures.pdb
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week3\Collecting Signatures\Collecting Signatures\obj\Debug\Collecting Signatures.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week3\Collecting Signatures\Collecting Signatures\obj\Debug\Collecting Signatures.pdb

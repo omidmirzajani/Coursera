@@ -1,0 +1,7 @@
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week6\MaximumValue\MaximumValue\bin\Debug\MaximumValue.exe.config
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week6\MaximumValue\MaximumValue\bin\Debug\MaximumValue.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week6\MaximumValue\MaximumValue\bin\Debug\MaximumValue.pdb
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week6\MaximumValue\MaximumValue\obj\Debug\MaximumValue.csprojAssemblyReference.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week6\MaximumValue\MaximumValue\obj\Debug\MaximumValue.csproj.CoreCompileInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week6\MaximumValue\MaximumValue\obj\Debug\MaximumValue.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week6\MaximumValue\MaximumValue\obj\Debug\MaximumValue.pdb

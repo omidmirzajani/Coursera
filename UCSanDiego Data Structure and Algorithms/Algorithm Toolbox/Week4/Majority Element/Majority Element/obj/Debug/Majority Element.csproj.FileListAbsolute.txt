@@ -1,0 +1,6 @@
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week4\Majority Element\Majority Element\bin\Debug\Majority Element.exe.config
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week4\Majority Element\Majority Element\bin\Debug\Majority Element.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week4\Majority Element\Majority Element\bin\Debug\Majority Element.pdb
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week4\Majority Element\Majority Element\obj\Debug\Majority Element.csproj.CoreCompileInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week4\Majority Element\Majority Element\obj\Debug\Majority Element.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week4\Majority Element\Majority Element\obj\Debug\Majority Element.pdb

@@ -1,0 +1,7 @@
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week4\Number of Inversions\Number of Inversions\bin\Debug\Number of Inversions.exe.config
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week4\Number of Inversions\Number of Inversions\bin\Debug\Number of Inversions.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week4\Number of Inversions\Number of Inversions\bin\Debug\Number of Inversions.pdb
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week4\Number of Inversions\Number of Inversions\obj\Debug\Number of Inversions.csprojAssemblyReference.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week4\Number of Inversions\Number of Inversions\obj\Debug\Number of Inversions.csproj.CoreCompileInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week4\Number of Inversions\Number of Inversions\obj\Debug\Number of Inversions.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week4\Number of Inversions\Number of Inversions\obj\Debug\Number of Inversions.pdb
