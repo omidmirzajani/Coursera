@@ -1,0 +1,11 @@
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Acyclic\Acyclic\bin\Debug\netcoreapp2.2\Acyclic.deps.json
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Acyclic\Acyclic\bin\Debug\netcoreapp2.2\Acyclic.runtimeconfig.json
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Acyclic\Acyclic\bin\Debug\netcoreapp2.2\Acyclic.runtimeconfig.dev.json
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Acyclic\Acyclic\bin\Debug\netcoreapp2.2\Acyclic.dll
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Acyclic\Acyclic\bin\Debug\netcoreapp2.2\Acyclic.pdb
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Acyclic\Acyclic\obj\Debug\netcoreapp2.2\Acyclic.csprojAssemblyReference.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Acyclic\Acyclic\obj\Debug\netcoreapp2.2\Acyclic.csproj.CoreCompileInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Acyclic\Acyclic\obj\Debug\netcoreapp2.2\Acyclic.AssemblyInfoInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Acyclic\Acyclic\obj\Debug\netcoreapp2.2\Acyclic.AssemblyInfo.cs
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Acyclic\Acyclic\obj\Debug\netcoreapp2.2\Acyclic.dll
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\Acyclic\Acyclic\obj\Debug\netcoreapp2.2\Acyclic.pdb
