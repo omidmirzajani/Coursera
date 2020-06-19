@@ -1,0 +1,6 @@
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week1\TreeHeight\TreeHeight\bin\Debug\TreeHeight.exe.config
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week1\TreeHeight\TreeHeight\bin\Debug\TreeHeight.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week1\TreeHeight\TreeHeight\bin\Debug\TreeHeight.pdb
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week1\TreeHeight\TreeHeight\obj\Debug\TreeHeight.csproj.CoreCompileInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week1\TreeHeight\TreeHeight\obj\Debug\TreeHeight.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week1\TreeHeight\TreeHeight\obj\Debug\TreeHeight.pdb

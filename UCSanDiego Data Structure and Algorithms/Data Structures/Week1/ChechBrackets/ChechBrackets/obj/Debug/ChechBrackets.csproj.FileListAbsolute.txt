@@ -1,0 +1,7 @@
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week1\ChechBrackets\ChechBrackets\bin\Debug\ChechBrackets.exe.config
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week1\ChechBrackets\ChechBrackets\bin\Debug\ChechBrackets.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week1\ChechBrackets\ChechBrackets\bin\Debug\ChechBrackets.pdb
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week1\ChechBrackets\ChechBrackets\obj\Debug\ChechBrackets.csprojAssemblyReference.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week1\ChechBrackets\ChechBrackets\obj\Debug\ChechBrackets.csproj.CoreCompileInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week1\ChechBrackets\ChechBrackets\obj\Debug\ChechBrackets.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week1\ChechBrackets\ChechBrackets\obj\Debug\ChechBrackets.pdb

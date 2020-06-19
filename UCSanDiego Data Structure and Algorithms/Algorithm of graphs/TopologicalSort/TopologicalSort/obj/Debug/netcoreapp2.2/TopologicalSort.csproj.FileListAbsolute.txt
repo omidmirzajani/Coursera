@@ -1,0 +1,10 @@
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\TopologicalSort\TopologicalSort\bin\Debug\netcoreapp2.2\TopologicalSort.deps.json
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\TopologicalSort\TopologicalSort\bin\Debug\netcoreapp2.2\TopologicalSort.runtimeconfig.json
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\TopologicalSort\TopologicalSort\bin\Debug\netcoreapp2.2\TopologicalSort.runtimeconfig.dev.json
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\TopologicalSort\TopologicalSort\bin\Debug\netcoreapp2.2\TopologicalSort.dll
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\TopologicalSort\TopologicalSort\bin\Debug\netcoreapp2.2\TopologicalSort.pdb
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\TopologicalSort\TopologicalSort\obj\Debug\netcoreapp2.2\TopologicalSort.csproj.CoreCompileInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\TopologicalSort\TopologicalSort\obj\Debug\netcoreapp2.2\TopologicalSort.AssemblyInfoInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\TopologicalSort\TopologicalSort\obj\Debug\netcoreapp2.2\TopologicalSort.AssemblyInfo.cs
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\TopologicalSort\TopologicalSort\obj\Debug\netcoreapp2.2\TopologicalSort.dll
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Algorithm of graphs\TopologicalSort\TopologicalSort\obj\Debug\netcoreapp2.2\TopologicalSort.pdb

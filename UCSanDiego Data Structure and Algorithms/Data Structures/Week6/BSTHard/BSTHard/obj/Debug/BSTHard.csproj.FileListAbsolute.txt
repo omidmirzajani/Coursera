@@ -1,0 +1,6 @@
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week6\BSTHard\BSTHard\bin\Debug\BSTHard.exe.config
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week6\BSTHard\BSTHard\bin\Debug\BSTHard.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week6\BSTHard\BSTHard\bin\Debug\BSTHard.pdb
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week6\BSTHard\BSTHard\obj\Debug\BSTHard.csproj.CoreCompileInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week6\BSTHard\BSTHard\obj\Debug\BSTHard.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Data Structures\Week6\BSTHard\BSTHard\obj\Debug\BSTHard.pdb

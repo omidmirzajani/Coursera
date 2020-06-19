@@ -1,0 +1,6 @@
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week5\EditDistance\EditDistance\bin\Debug\EditDistance.exe.config
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week5\EditDistance\EditDistance\bin\Debug\EditDistance.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week5\EditDistance\EditDistance\bin\Debug\EditDistance.pdb
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week5\EditDistance\EditDistance\obj\Debug\EditDistance.csproj.CoreCompileInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week5\EditDistance\EditDistance\obj\Debug\EditDistance.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week5\EditDistance\EditDistance\obj\Debug\EditDistance.pdb

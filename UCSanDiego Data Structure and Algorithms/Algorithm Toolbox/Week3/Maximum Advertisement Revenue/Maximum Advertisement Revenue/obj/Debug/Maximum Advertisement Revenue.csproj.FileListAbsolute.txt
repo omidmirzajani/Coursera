@@ -1,0 +1,6 @@
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week3\Maximum Advertisement Revenue\Maximum Advertisement Revenue\bin\Debug\Maximum Advertisement Revenue.exe.config
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week3\Maximum Advertisement Revenue\Maximum Advertisement Revenue\bin\Debug\Maximum Advertisement Revenue.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week3\Maximum Advertisement Revenue\Maximum Advertisement Revenue\bin\Debug\Maximum Advertisement Revenue.pdb
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week3\Maximum Advertisement Revenue\Maximum Advertisement Revenue\obj\Debug\Maximum Advertisement Revenue.csproj.CoreCompileInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week3\Maximum Advertisement Revenue\Maximum Advertisement Revenue\obj\Debug\Maximum Advertisement Revenue.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week3\Maximum Advertisement Revenue\Maximum Advertisement Revenue\obj\Debug\Maximum Advertisement Revenue.pdb

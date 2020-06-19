@@ -1,0 +1,6 @@
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week4\Improving Quick Sort\Improving Quick Sort\bin\Debug\Improving Quick Sort.exe.config
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week4\Improving Quick Sort\Improving Quick Sort\bin\Debug\Improving Quick Sort.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week4\Improving Quick Sort\Improving Quick Sort\bin\Debug\Improving Quick Sort.pdb
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week4\Improving Quick Sort\Improving Quick Sort\obj\Debug\Improving Quick Sort.csproj.CoreCompileInputs.cache
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week4\Improving Quick Sort\Improving Quick Sort\obj\Debug\Improving Quick Sort.exe
+C:\GitHub\Data-Structures-and-Algorithms-Coursera\Assignments\Week4\Improving Quick Sort\Improving Quick Sort\obj\Debug\Improving Quick Sort.pdb
