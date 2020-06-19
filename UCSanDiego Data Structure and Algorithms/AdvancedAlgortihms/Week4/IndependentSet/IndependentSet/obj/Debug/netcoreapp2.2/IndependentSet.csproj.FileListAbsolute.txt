@@ -1,0 +1,10 @@
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\IndependentSet\IndependentSet\obj\Debug\netcoreapp2.2\IndependentSet.csproj.CoreCompileInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\IndependentSet\IndependentSet\obj\Debug\netcoreapp2.2\IndependentSet.AssemblyInfoInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\IndependentSet\IndependentSet\obj\Debug\netcoreapp2.2\IndependentSet.AssemblyInfo.cs
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\IndependentSet\IndependentSet\bin\Debug\netcoreapp2.2\IndependentSet.deps.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\IndependentSet\IndependentSet\bin\Debug\netcoreapp2.2\IndependentSet.runtimeconfig.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\IndependentSet\IndependentSet\bin\Debug\netcoreapp2.2\IndependentSet.runtimeconfig.dev.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\IndependentSet\IndependentSet\bin\Debug\netcoreapp2.2\IndependentSet.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\IndependentSet\IndependentSet\bin\Debug\netcoreapp2.2\IndependentSet.pdb
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\IndependentSet\IndependentSet\obj\Debug\netcoreapp2.2\IndependentSet.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\IndependentSet\IndependentSet\obj\Debug\netcoreapp2.2\IndependentSet.pdb

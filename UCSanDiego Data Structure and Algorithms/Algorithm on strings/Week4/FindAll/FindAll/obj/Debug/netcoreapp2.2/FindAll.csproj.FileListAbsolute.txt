@@ -1,0 +1,11 @@
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week4\FindAll\FindAll\bin\Debug\netcoreapp2.2\FindAll.deps.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week4\FindAll\FindAll\bin\Debug\netcoreapp2.2\FindAll.runtimeconfig.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week4\FindAll\FindAll\bin\Debug\netcoreapp2.2\FindAll.runtimeconfig.dev.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week4\FindAll\FindAll\bin\Debug\netcoreapp2.2\FindAll.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week4\FindAll\FindAll\bin\Debug\netcoreapp2.2\FindAll.pdb
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week4\FindAll\FindAll\obj\Debug\netcoreapp2.2\FindAll.csproj.CoreCompileInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week4\FindAll\FindAll\obj\Debug\netcoreapp2.2\FindAll.AssemblyInfoInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week4\FindAll\FindAll\obj\Debug\netcoreapp2.2\FindAll.AssemblyInfo.cs
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week4\FindAll\FindAll\obj\Debug\netcoreapp2.2\FindAll.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week4\FindAll\FindAll\obj\Debug\netcoreapp2.2\FindAll.pdb
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week4\FindAll\FindAll\obj\Debug\netcoreapp2.2\FindAll.csprojAssemblyReference.cache

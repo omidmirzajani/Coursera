@@ -1,0 +1,11 @@
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week2\EnergyValue\EnergyValue\bin\Debug\netcoreapp2.2\EnergyValue.deps.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week2\EnergyValue\EnergyValue\bin\Debug\netcoreapp2.2\EnergyValue.runtimeconfig.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week2\EnergyValue\EnergyValue\bin\Debug\netcoreapp2.2\EnergyValue.runtimeconfig.dev.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week2\EnergyValue\EnergyValue\bin\Debug\netcoreapp2.2\EnergyValue.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week2\EnergyValue\EnergyValue\bin\Debug\netcoreapp2.2\EnergyValue.pdb
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week2\EnergyValue\EnergyValue\obj\Debug\netcoreapp2.2\EnergyValue.csproj.CoreCompileInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week2\EnergyValue\EnergyValue\obj\Debug\netcoreapp2.2\EnergyValue.AssemblyInfoInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week2\EnergyValue\EnergyValue\obj\Debug\netcoreapp2.2\EnergyValue.AssemblyInfo.cs
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week2\EnergyValue\EnergyValue\obj\Debug\netcoreapp2.2\EnergyValue.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week2\EnergyValue\EnergyValue\obj\Debug\netcoreapp2.2\EnergyValue.pdb
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week2\EnergyValue\EnergyValue\obj\Debug\netcoreapp2.2\EnergyValue.csprojAssemblyReference.cache

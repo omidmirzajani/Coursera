@@ -1,0 +1,11 @@
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\Circuit\Circuit\obj\Debug\netcoreapp2.2\Circuit.csprojAssemblyReference.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\Circuit\Circuit\obj\Debug\netcoreapp2.2\Circuit.csproj.CoreCompileInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\Circuit\Circuit\obj\Debug\netcoreapp2.2\Circuit.AssemblyInfoInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\Circuit\Circuit\obj\Debug\netcoreapp2.2\Circuit.AssemblyInfo.cs
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\Circuit\Circuit\bin\Debug\netcoreapp2.2\Circuit.deps.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\Circuit\Circuit\bin\Debug\netcoreapp2.2\Circuit.runtimeconfig.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\Circuit\Circuit\bin\Debug\netcoreapp2.2\Circuit.runtimeconfig.dev.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\Circuit\Circuit\bin\Debug\netcoreapp2.2\Circuit.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\Circuit\Circuit\bin\Debug\netcoreapp2.2\Circuit.pdb
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\Circuit\Circuit\obj\Debug\netcoreapp2.2\Circuit.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\Circuit\Circuit\obj\Debug\netcoreapp2.2\Circuit.pdb

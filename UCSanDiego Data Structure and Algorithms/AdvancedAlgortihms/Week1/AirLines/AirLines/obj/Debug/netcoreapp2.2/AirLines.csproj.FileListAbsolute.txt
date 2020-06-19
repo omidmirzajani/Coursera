@@ -1,0 +1,11 @@
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week1\AirLines\AirLines\bin\Debug\netcoreapp2.2\AirLines.deps.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week1\AirLines\AirLines\bin\Debug\netcoreapp2.2\AirLines.runtimeconfig.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week1\AirLines\AirLines\bin\Debug\netcoreapp2.2\AirLines.runtimeconfig.dev.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week1\AirLines\AirLines\bin\Debug\netcoreapp2.2\AirLines.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week1\AirLines\AirLines\bin\Debug\netcoreapp2.2\AirLines.pdb
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week1\AirLines\AirLines\obj\Debug\netcoreapp2.2\AirLines.csproj.CoreCompileInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week1\AirLines\AirLines\obj\Debug\netcoreapp2.2\AirLines.AssemblyInfoInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week1\AirLines\AirLines\obj\Debug\netcoreapp2.2\AirLines.AssemblyInfo.cs
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week1\AirLines\AirLines\obj\Debug\netcoreapp2.2\AirLines.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week1\AirLines\AirLines\obj\Debug\netcoreapp2.2\AirLines.pdb
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week1\AirLines\AirLines\obj\Debug\netcoreapp2.2\AirLines.csprojAssemblyReference.cache

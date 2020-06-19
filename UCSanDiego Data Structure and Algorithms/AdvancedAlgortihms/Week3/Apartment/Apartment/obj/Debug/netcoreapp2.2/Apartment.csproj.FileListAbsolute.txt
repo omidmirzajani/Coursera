@@ -1,0 +1,10 @@
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week3\Apartment\Apartment\bin\Debug\netcoreapp2.2\Apartment.deps.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week3\Apartment\Apartment\bin\Debug\netcoreapp2.2\Apartment.runtimeconfig.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week3\Apartment\Apartment\bin\Debug\netcoreapp2.2\Apartment.runtimeconfig.dev.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week3\Apartment\Apartment\bin\Debug\netcoreapp2.2\Apartment.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week3\Apartment\Apartment\bin\Debug\netcoreapp2.2\Apartment.pdb
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week3\Apartment\Apartment\obj\Debug\netcoreapp2.2\Apartment.csproj.CoreCompileInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week3\Apartment\Apartment\obj\Debug\netcoreapp2.2\Apartment.AssemblyInfoInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week3\Apartment\Apartment\obj\Debug\netcoreapp2.2\Apartment.AssemblyInfo.cs
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week3\Apartment\Apartment\obj\Debug\netcoreapp2.2\Apartment.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week3\Apartment\Apartment\obj\Debug\netcoreapp2.2\Apartment.pdb

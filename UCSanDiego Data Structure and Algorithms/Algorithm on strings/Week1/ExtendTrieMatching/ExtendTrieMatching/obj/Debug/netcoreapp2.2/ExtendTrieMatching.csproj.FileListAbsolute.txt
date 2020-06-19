@@ -1,0 +1,10 @@
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\ExtendTrieMatching\ExtendTrieMatching\bin\Debug\netcoreapp2.2\ExtendTrieMatching.deps.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\ExtendTrieMatching\ExtendTrieMatching\bin\Debug\netcoreapp2.2\ExtendTrieMatching.runtimeconfig.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\ExtendTrieMatching\ExtendTrieMatching\bin\Debug\netcoreapp2.2\ExtendTrieMatching.runtimeconfig.dev.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\ExtendTrieMatching\ExtendTrieMatching\bin\Debug\netcoreapp2.2\ExtendTrieMatching.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\ExtendTrieMatching\ExtendTrieMatching\bin\Debug\netcoreapp2.2\ExtendTrieMatching.pdb
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\ExtendTrieMatching\ExtendTrieMatching\obj\Debug\netcoreapp2.2\ExtendTrieMatching.csproj.CoreCompileInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\ExtendTrieMatching\ExtendTrieMatching\obj\Debug\netcoreapp2.2\ExtendTrieMatching.AssemblyInfoInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\ExtendTrieMatching\ExtendTrieMatching\obj\Debug\netcoreapp2.2\ExtendTrieMatching.AssemblyInfo.cs
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\ExtendTrieMatching\ExtendTrieMatching\obj\Debug\netcoreapp2.2\ExtendTrieMatching.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\ExtendTrieMatching\ExtendTrieMatching\obj\Debug\netcoreapp2.2\ExtendTrieMatching.pdb

@@ -1,0 +1,11 @@
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\ConstructTrie\ConstructTrie\bin\Debug\netcoreapp2.2\ConstructTrie.deps.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\ConstructTrie\ConstructTrie\bin\Debug\netcoreapp2.2\ConstructTrie.runtimeconfig.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\ConstructTrie\ConstructTrie\bin\Debug\netcoreapp2.2\ConstructTrie.runtimeconfig.dev.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\ConstructTrie\ConstructTrie\bin\Debug\netcoreapp2.2\ConstructTrie.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\ConstructTrie\ConstructTrie\bin\Debug\netcoreapp2.2\ConstructTrie.pdb
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\ConstructTrie\ConstructTrie\obj\Debug\netcoreapp2.2\ConstructTrie.csprojAssemblyReference.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\ConstructTrie\ConstructTrie\obj\Debug\netcoreapp2.2\ConstructTrie.csproj.CoreCompileInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\ConstructTrie\ConstructTrie\obj\Debug\netcoreapp2.2\ConstructTrie.AssemblyInfoInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\ConstructTrie\ConstructTrie\obj\Debug\netcoreapp2.2\ConstructTrie.AssemblyInfo.cs
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\ConstructTrie\ConstructTrie\obj\Debug\netcoreapp2.2\ConstructTrie.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\ConstructTrie\ConstructTrie\obj\Debug\netcoreapp2.2\ConstructTrie.pdb

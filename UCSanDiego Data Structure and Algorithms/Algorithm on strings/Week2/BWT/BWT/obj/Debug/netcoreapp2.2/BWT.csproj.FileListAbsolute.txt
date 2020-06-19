@@ -1,0 +1,11 @@
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week2\BWT\BWT\bin\Debug\netcoreapp2.2\BWT.deps.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week2\BWT\BWT\bin\Debug\netcoreapp2.2\BWT.runtimeconfig.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week2\BWT\BWT\bin\Debug\netcoreapp2.2\BWT.runtimeconfig.dev.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week2\BWT\BWT\bin\Debug\netcoreapp2.2\BWT.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week2\BWT\BWT\bin\Debug\netcoreapp2.2\BWT.pdb
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week2\BWT\BWT\obj\Debug\netcoreapp2.2\BWT.csprojAssemblyReference.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week2\BWT\BWT\obj\Debug\netcoreapp2.2\BWT.csproj.CoreCompileInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week2\BWT\BWT\obj\Debug\netcoreapp2.2\BWT.AssemblyInfoInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week2\BWT\BWT\obj\Debug\netcoreapp2.2\BWT.AssemblyInfo.cs
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week2\BWT\BWT\obj\Debug\netcoreapp2.2\BWT.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week2\BWT\BWT\obj\Debug\netcoreapp2.2\BWT.pdb

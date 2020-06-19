@@ -1,0 +1,11 @@
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\ImplementTrieMatching\ImplementTrieMatching\bin\Debug\netcoreapp2.2\ImplementTrieMatching.deps.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\ImplementTrieMatching\ImplementTrieMatching\bin\Debug\netcoreapp2.2\ImplementTrieMatching.runtimeconfig.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\ImplementTrieMatching\ImplementTrieMatching\bin\Debug\netcoreapp2.2\ImplementTrieMatching.runtimeconfig.dev.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\ImplementTrieMatching\ImplementTrieMatching\bin\Debug\netcoreapp2.2\ImplementTrieMatching.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\ImplementTrieMatching\ImplementTrieMatching\bin\Debug\netcoreapp2.2\ImplementTrieMatching.pdb
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\ImplementTrieMatching\ImplementTrieMatching\obj\Debug\netcoreapp2.2\ImplementTrieMatching.csprojAssemblyReference.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\ImplementTrieMatching\ImplementTrieMatching\obj\Debug\netcoreapp2.2\ImplementTrieMatching.csproj.CoreCompileInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\ImplementTrieMatching\ImplementTrieMatching\obj\Debug\netcoreapp2.2\ImplementTrieMatching.AssemblyInfoInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\ImplementTrieMatching\ImplementTrieMatching\obj\Debug\netcoreapp2.2\ImplementTrieMatching.AssemblyInfo.cs
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\ImplementTrieMatching\ImplementTrieMatching\obj\Debug\netcoreapp2.2\ImplementTrieMatching.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\ImplementTrieMatching\ImplementTrieMatching\obj\Debug\netcoreapp2.2\ImplementTrieMatching.pdb

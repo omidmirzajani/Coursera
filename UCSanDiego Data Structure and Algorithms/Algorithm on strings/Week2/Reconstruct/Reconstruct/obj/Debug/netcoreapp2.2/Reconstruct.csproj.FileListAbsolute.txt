@@ -1,0 +1,10 @@
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week2\Reconstruct\Reconstruct\bin\Debug\netcoreapp2.2\Reconstruct.deps.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week2\Reconstruct\Reconstruct\bin\Debug\netcoreapp2.2\Reconstruct.runtimeconfig.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week2\Reconstruct\Reconstruct\bin\Debug\netcoreapp2.2\Reconstruct.runtimeconfig.dev.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week2\Reconstruct\Reconstruct\bin\Debug\netcoreapp2.2\Reconstruct.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week2\Reconstruct\Reconstruct\bin\Debug\netcoreapp2.2\Reconstruct.pdb
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week2\Reconstruct\Reconstruct\obj\Debug\netcoreapp2.2\Reconstruct.csproj.CoreCompileInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week2\Reconstruct\Reconstruct\obj\Debug\netcoreapp2.2\Reconstruct.AssemblyInfoInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week2\Reconstruct\Reconstruct\obj\Debug\netcoreapp2.2\Reconstruct.AssemblyInfo.cs
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week2\Reconstruct\Reconstruct\obj\Debug\netcoreapp2.2\Reconstruct.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week2\Reconstruct\Reconstruct\obj\Debug\netcoreapp2.2\Reconstruct.pdb

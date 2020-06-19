@@ -1,0 +1,11 @@
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week1\Evacuate\Evacuate\bin\Debug\netcoreapp2.2\Evacuate.deps.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week1\Evacuate\Evacuate\bin\Debug\netcoreapp2.2\Evacuate.runtimeconfig.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week1\Evacuate\Evacuate\bin\Debug\netcoreapp2.2\Evacuate.runtimeconfig.dev.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week1\Evacuate\Evacuate\bin\Debug\netcoreapp2.2\Evacuate.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week1\Evacuate\Evacuate\bin\Debug\netcoreapp2.2\Evacuate.pdb
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week1\Evacuate\Evacuate\obj\Debug\netcoreapp2.2\Evacuate.csprojAssemblyReference.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week1\Evacuate\Evacuate\obj\Debug\netcoreapp2.2\Evacuate.csproj.CoreCompileInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week1\Evacuate\Evacuate\obj\Debug\netcoreapp2.2\Evacuate.AssemblyInfoInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week1\Evacuate\Evacuate\obj\Debug\netcoreapp2.2\Evacuate.AssemblyInfo.cs
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week1\Evacuate\Evacuate\obj\Debug\netcoreapp2.2\Evacuate.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week1\Evacuate\Evacuate\obj\Debug\netcoreapp2.2\Evacuate.pdb

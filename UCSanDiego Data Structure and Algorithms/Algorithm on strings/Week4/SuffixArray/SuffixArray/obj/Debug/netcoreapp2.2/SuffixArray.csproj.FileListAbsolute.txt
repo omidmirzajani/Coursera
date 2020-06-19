@@ -1,0 +1,10 @@
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week4\SuffixArray\SuffixArray\bin\Debug\netcoreapp2.2\SuffixArray.deps.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week4\SuffixArray\SuffixArray\bin\Debug\netcoreapp2.2\SuffixArray.runtimeconfig.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week4\SuffixArray\SuffixArray\bin\Debug\netcoreapp2.2\SuffixArray.runtimeconfig.dev.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week4\SuffixArray\SuffixArray\bin\Debug\netcoreapp2.2\SuffixArray.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week4\SuffixArray\SuffixArray\bin\Debug\netcoreapp2.2\SuffixArray.pdb
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week4\SuffixArray\SuffixArray\obj\Debug\netcoreapp2.2\SuffixArray.csproj.CoreCompileInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week4\SuffixArray\SuffixArray\obj\Debug\netcoreapp2.2\SuffixArray.AssemblyInfoInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week4\SuffixArray\SuffixArray\obj\Debug\netcoreapp2.2\SuffixArray.AssemblyInfo.cs
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week4\SuffixArray\SuffixArray\obj\Debug\netcoreapp2.2\SuffixArray.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Algorithm on strings\Week4\SuffixArray\SuffixArray\obj\Debug\netcoreapp2.2\SuffixArray.pdb

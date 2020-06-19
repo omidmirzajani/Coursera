@@ -1,0 +1,11 @@
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week3\Gsm\Gsm\bin\Debug\netcoreapp2.2\Gsm.deps.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week3\Gsm\Gsm\bin\Debug\netcoreapp2.2\Gsm.runtimeconfig.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week3\Gsm\Gsm\bin\Debug\netcoreapp2.2\Gsm.runtimeconfig.dev.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week3\Gsm\Gsm\bin\Debug\netcoreapp2.2\Gsm.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week3\Gsm\Gsm\bin\Debug\netcoreapp2.2\Gsm.pdb
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week3\Gsm\Gsm\obj\Debug\netcoreapp2.2\Gsm.csprojAssemblyReference.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week3\Gsm\Gsm\obj\Debug\netcoreapp2.2\Gsm.csproj.CoreCompileInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week3\Gsm\Gsm\obj\Debug\netcoreapp2.2\Gsm.AssemblyInfoInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week3\Gsm\Gsm\obj\Debug\netcoreapp2.2\Gsm.AssemblyInfo.cs
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week3\Gsm\Gsm\obj\Debug\netcoreapp2.2\Gsm.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week3\Gsm\Gsm\obj\Debug\netcoreapp2.2\Gsm.pdb
