@@ -6,12 +6,43 @@ using System.Linq;
 
 namespace Diet
 {
+    enum AnswerType
+    {
+        NoAnswer = 0,
+        BoundedAnswer = 1,
+        Infinity = 2
+    }
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string[] nm = Console.ReadLine().Split();
+            int n = int.Parse(nm[0]);
+            int m = int.Parse(nm[1]);
+            double[,] matrix1 = new double[n + 1, m + 1];
+            for (int i = 0; i < n; ++i)
+            {
+                string[] tmp = Console.ReadLine().Split();
+                for (int j = 0; j < tmp.Length; ++j)
+                {
+                    matrix1[i, j] = double.Parse(tmp[j]);
+                }
+            }
+            string[] temp = Console.ReadLine().Split();
+            for (int i = 0; i < temp.Length; ++i)
+            {
+                matrix1[i, m] = double.Parse(temp[i]);
+            }
+            temp = Console.ReadLine().Split();
+            for (int i = 0; i < temp.Length; ++i)
+            {
+                matrix1[n, i] = double.Parse(temp[i]);
+            }
+            Program p = new Program();
+            string s = Solve(n, m, matrix1);
+            Console.WriteLine(s);
         }
+
         public static string Solve(int N, int M, double[,] matrix1)
         {
             double[] values = new double[N];
@@ -66,40 +97,6 @@ namespace Diet
             sb.Append("Bounded Solution\n");
             sb.Append(string.Join(' ', mine));
             return sb.ToString();
-        }
-
-        public static IEnumerable<string> Combine(int m, int n)
-        {
-            for (int i = (int)Math.Pow(2, n) - 1; i < Math.Pow(2, n) * Math.Pow(2, m - n); i++)
-            {
-                string binary = Convert.ToString(i, 2);
-
-                if (HasN(binary, n))
-                    yield return Zero(m - binary.Length) + binary;
-            }
-        }
-        private static string Zero(int v)
-        {
-            StringBuilder t = new StringBuilder();
-            for (int i = 0; i < v; i++)
-                t.Append("0");
-            return t.ToString();
-        }
-
-        private static bool HasN(string binary, int n)
-        {
-            int s = 0;
-            foreach (char c in binary)
-            {
-                if (c == '1')
-                    s++;
-                if (s > n)
-                    return false;
-            }
-            if (s == n)
-                return true;
-            else
-                return false;
         }
 
         private static bool Check(double[] result, double[,] matrix1, double[] values, int m, int n)

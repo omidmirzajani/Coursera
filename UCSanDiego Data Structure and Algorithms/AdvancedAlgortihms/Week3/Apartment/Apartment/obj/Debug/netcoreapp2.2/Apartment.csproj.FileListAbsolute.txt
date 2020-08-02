@@ -8,3 +8,4 @@ C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\W
 C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week3\Apartment\Apartment\obj\Debug\netcoreapp2.2\Apartment.AssemblyInfo.cs
 C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week3\Apartment\Apartment\obj\Debug\netcoreapp2.2\Apartment.dll
 C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week3\Apartment\Apartment\obj\Debug\netcoreapp2.2\Apartment.pdb
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week3\Apartment\Apartment\obj\Debug\netcoreapp2.2\Apartment.csprojAssemblyReference.cache

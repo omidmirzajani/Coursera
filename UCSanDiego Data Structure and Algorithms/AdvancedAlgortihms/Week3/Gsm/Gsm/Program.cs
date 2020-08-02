@@ -25,19 +25,15 @@ namespace Gsm
         }
         public static string[] Solve(int V, int E, long[,] matrix)
         {
-            string[] res = new string[4 * V + 3 * E + 1];
-            res[0] = (3 * V).ToString() + " " + (4 * V + 3 * E).ToString();
+            string[] res = new string[3*E+V+1];
+            res[0] = (3 * E + V).ToString() + " " + (3 * V).ToString();
             int index = 1;
-            StringBuilder s = new StringBuilder();
             for (int i = 0; i < V; i++)
             {
                 var a = i * 3 + 1;
                 var b = i * 3 + 2;
                 var c = i * 3 + 3;
                 res[index++] = a.ToString() + " " + b.ToString() + " " + c.ToString() + " 0";
-                res[index++] = "-" + a.ToString() + " -" + b.ToString() + " 0";
-                res[index++] = "-" + a.ToString() + " -" + c.ToString() + " 0";
-                res[index++] = "-" + b.ToString() + " -" + c.ToString() + " 0";
             }
             for (int i = 0; i < E; i++)
             {

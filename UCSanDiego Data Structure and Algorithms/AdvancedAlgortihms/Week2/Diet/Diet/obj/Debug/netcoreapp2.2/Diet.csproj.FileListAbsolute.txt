@@ -1,0 +1,11 @@
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week2\Diet\Diet\bin\Debug\netcoreapp2.2\Diet.deps.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week2\Diet\Diet\bin\Debug\netcoreapp2.2\Diet.runtimeconfig.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week2\Diet\Diet\bin\Debug\netcoreapp2.2\Diet.runtimeconfig.dev.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week2\Diet\Diet\bin\Debug\netcoreapp2.2\Diet.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week2\Diet\Diet\bin\Debug\netcoreapp2.2\Diet.pdb
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week2\Diet\Diet\obj\Debug\netcoreapp2.2\Diet.csprojAssemblyReference.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week2\Diet\Diet\obj\Debug\netcoreapp2.2\Diet.csproj.CoreCompileInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week2\Diet\Diet\obj\Debug\netcoreapp2.2\Diet.AssemblyInfoInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week2\Diet\Diet\obj\Debug\netcoreapp2.2\Diet.AssemblyInfo.cs
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week2\Diet\Diet\obj\Debug\netcoreapp2.2\Diet.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week2\Diet\Diet\obj\Debug\netcoreapp2.2\Diet.pdb

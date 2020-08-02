@@ -1,0 +1,11 @@
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\Recoloring\Recoloring\bin\Debug\netcoreapp2.2\Recoloring.deps.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\Recoloring\Recoloring\bin\Debug\netcoreapp2.2\Recoloring.runtimeconfig.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\Recoloring\Recoloring\bin\Debug\netcoreapp2.2\Recoloring.runtimeconfig.dev.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\Recoloring\Recoloring\bin\Debug\netcoreapp2.2\Recoloring.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\Recoloring\Recoloring\bin\Debug\netcoreapp2.2\Recoloring.pdb
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\Recoloring\Recoloring\obj\Debug\netcoreapp2.2\Recoloring.csprojAssemblyReference.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\Recoloring\Recoloring\obj\Debug\netcoreapp2.2\Recoloring.csproj.CoreCompileInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\Recoloring\Recoloring\obj\Debug\netcoreapp2.2\Recoloring.AssemblyInfoInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\Recoloring\Recoloring\obj\Debug\netcoreapp2.2\Recoloring.AssemblyInfo.cs
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\Recoloring\Recoloring\obj\Debug\netcoreapp2.2\Recoloring.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\Recoloring\Recoloring\obj\Debug\netcoreapp2.2\Recoloring.pdb

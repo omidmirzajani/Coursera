@@ -42,8 +42,9 @@ namespace Apartment
                     a[j] = V * (i - 1) + j + 1;
                 for (int j = 0; j < V; j++)
                     for (int k = j + 1; k < V; k++)
-                        result.Add($"{-a[j]} {-a[k]}");
-                result.Add(string.Join(' ', a));
+                        result.Add((-a[j]).ToString()+" "+(-a[k]).ToString()+" 0");
+                result.Add(MyJoin(a) + "0");
+
             }
             for (int i = 1; i <= V; i++)
             {
@@ -51,8 +52,10 @@ namespace Apartment
                     a[j] = V * (j) + i;
                 for (int j = 0; j < V; j++)
                     for (int k = j + 1; k < V; k++)
-                        result.Add($"{-a[j]} {-a[k]}");
-                result.Add(string.Join(' ', a));
+                        result.Add((-a[j]).ToString() + " " + (-a[k]).ToString() + " 0");
+
+                result.Add(MyJoin(a) + "0");
+
             }
             for (int i = 1; i <= V; i++)
             {
@@ -63,13 +66,31 @@ namespace Apartment
                     mine.Add((-((i - 1) * V + j + 1)).ToString());
                     for (int k = 0; k < adj[i].Count; k++)
                         mine.Add(((adj[i][k] - 1) * V + (j + 2)).ToString());
-                    result.Add(string.Join(' ', mine));
+                    result.Add(MyJoin(mine)+ "0");
                 }
             }
-            List<string> res = new List<string> { $"{V * V} {result.Count}" };
+            List<string> res = new List<string> { (result.Count).ToString()+" "+(V*V).ToString() };
             res.AddRange(result);
             return res.ToArray();
 
+        }
+        public static string MyJoin(List<string> mine)
+        {
+            string s = "";
+            foreach (var item in mine)
+            {
+                s += item.ToString() + " ";
+            }
+            return s;
+        }
+        public static string MyJoin(long[] mine)
+        {
+            string s = "";
+            foreach (var item in mine)
+            {
+                s += item.ToString() + " ";
+            }
+            return s;
         }
     }
 }

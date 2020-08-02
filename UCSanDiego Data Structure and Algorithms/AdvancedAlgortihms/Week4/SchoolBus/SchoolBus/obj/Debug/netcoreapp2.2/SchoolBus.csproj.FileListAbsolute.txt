@@ -1,0 +1,11 @@
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\SchoolBus\SchoolBus\obj\Debug\netcoreapp2.2\SchoolBus.csprojAssemblyReference.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\SchoolBus\SchoolBus\obj\Debug\netcoreapp2.2\SchoolBus.csproj.CoreCompileInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\SchoolBus\SchoolBus\obj\Debug\netcoreapp2.2\SchoolBus.AssemblyInfoInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\SchoolBus\SchoolBus\obj\Debug\netcoreapp2.2\SchoolBus.AssemblyInfo.cs
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\SchoolBus\SchoolBus\bin\Debug\netcoreapp2.2\SchoolBus.deps.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\SchoolBus\SchoolBus\bin\Debug\netcoreapp2.2\SchoolBus.runtimeconfig.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\SchoolBus\SchoolBus\bin\Debug\netcoreapp2.2\SchoolBus.runtimeconfig.dev.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\SchoolBus\SchoolBus\bin\Debug\netcoreapp2.2\SchoolBus.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\SchoolBus\SchoolBus\bin\Debug\netcoreapp2.2\SchoolBus.pdb
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\SchoolBus\SchoolBus\obj\Debug\netcoreapp2.2\SchoolBus.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\AdvancedAlgortihms\Week4\SchoolBus\SchoolBus\obj\Debug\netcoreapp2.2\SchoolBus.pdb
