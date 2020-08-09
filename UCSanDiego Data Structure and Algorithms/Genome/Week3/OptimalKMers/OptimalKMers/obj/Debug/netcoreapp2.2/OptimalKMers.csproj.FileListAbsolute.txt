@@ -1,0 +1,11 @@
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week3\OptimalKMers\OptimalKMers\bin\Debug\netcoreapp2.2\OptimalKMers.deps.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week3\OptimalKMers\OptimalKMers\bin\Debug\netcoreapp2.2\OptimalKMers.runtimeconfig.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week3\OptimalKMers\OptimalKMers\bin\Debug\netcoreapp2.2\OptimalKMers.runtimeconfig.dev.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week3\OptimalKMers\OptimalKMers\bin\Debug\netcoreapp2.2\OptimalKMers.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week3\OptimalKMers\OptimalKMers\bin\Debug\netcoreapp2.2\OptimalKMers.pdb
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week3\OptimalKMers\OptimalKMers\obj\Debug\netcoreapp2.2\OptimalKMers.csprojAssemblyReference.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week3\OptimalKMers\OptimalKMers\obj\Debug\netcoreapp2.2\OptimalKMers.csproj.CoreCompileInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week3\OptimalKMers\OptimalKMers\obj\Debug\netcoreapp2.2\OptimalKMers.AssemblyInfoInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week3\OptimalKMers\OptimalKMers\obj\Debug\netcoreapp2.2\OptimalKMers.AssemblyInfo.cs
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week3\OptimalKMers\OptimalKMers\obj\Debug\netcoreapp2.2\OptimalKMers.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week3\OptimalKMers\OptimalKMers\obj\Debug\netcoreapp2.2\OptimalKMers.pdb

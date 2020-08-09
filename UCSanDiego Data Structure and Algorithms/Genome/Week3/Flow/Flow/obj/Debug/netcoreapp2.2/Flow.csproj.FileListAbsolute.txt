@@ -1,0 +1,11 @@
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week3\Flow\Flow\bin\Debug\netcoreapp2.2\Flow.deps.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week3\Flow\Flow\bin\Debug\netcoreapp2.2\Flow.runtimeconfig.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week3\Flow\Flow\bin\Debug\netcoreapp2.2\Flow.runtimeconfig.dev.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week3\Flow\Flow\bin\Debug\netcoreapp2.2\Flow.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week3\Flow\Flow\bin\Debug\netcoreapp2.2\Flow.pdb
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week3\Flow\Flow\obj\Debug\netcoreapp2.2\Flow.csprojAssemblyReference.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week3\Flow\Flow\obj\Debug\netcoreapp2.2\Flow.csproj.CoreCompileInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week3\Flow\Flow\obj\Debug\netcoreapp2.2\Flow.AssemblyInfoInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week3\Flow\Flow\obj\Debug\netcoreapp2.2\Flow.AssemblyInfo.cs
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week3\Flow\Flow\obj\Debug\netcoreapp2.2\Flow.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week3\Flow\Flow\obj\Debug\netcoreapp2.2\Flow.pdb

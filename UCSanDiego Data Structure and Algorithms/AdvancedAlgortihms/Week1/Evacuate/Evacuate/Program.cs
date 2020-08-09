@@ -102,7 +102,7 @@ namespace Evacuate
             long[][] edges = new long[edgeCount][];
             for(int i = 0; i < edgeCount; i++)
                 edges[i]= Console.ReadLine().Split().Select(d => Convert.ToInt64(d)).ToArray();
-            Console.WriteLine(Solve(nodeCount,edgeCount,edges);
+            Console.WriteLine(Solve(nodeCount,edgeCount,edges));
         }
         public static long Solve(long nodeCount, long edgeCount, long[][] edges)
         {

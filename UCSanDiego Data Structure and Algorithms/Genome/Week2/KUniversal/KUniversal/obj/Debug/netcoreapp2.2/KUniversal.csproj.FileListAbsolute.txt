@@ -1,0 +1,11 @@
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week2\KUniversal\KUniversal\bin\Debug\netcoreapp2.2\KUniversal.deps.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week2\KUniversal\KUniversal\bin\Debug\netcoreapp2.2\KUniversal.runtimeconfig.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week2\KUniversal\KUniversal\bin\Debug\netcoreapp2.2\KUniversal.runtimeconfig.dev.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week2\KUniversal\KUniversal\bin\Debug\netcoreapp2.2\KUniversal.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week2\KUniversal\KUniversal\bin\Debug\netcoreapp2.2\KUniversal.pdb
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week2\KUniversal\KUniversal\obj\Debug\netcoreapp2.2\KUniversal.csprojAssemblyReference.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week2\KUniversal\KUniversal\obj\Debug\netcoreapp2.2\KUniversal.csproj.CoreCompileInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week2\KUniversal\KUniversal\obj\Debug\netcoreapp2.2\KUniversal.AssemblyInfoInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week2\KUniversal\KUniversal\obj\Debug\netcoreapp2.2\KUniversal.AssemblyInfo.cs
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week2\KUniversal\KUniversal\obj\Debug\netcoreapp2.2\KUniversal.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week2\KUniversal\KUniversal\obj\Debug\netcoreapp2.2\KUniversal.pdb

@@ -1,0 +1,11 @@
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week2\Eulerian\Eulerian\obj\Debug\netcoreapp2.2\Eulerian.csprojAssemblyReference.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week2\Eulerian\Eulerian\obj\Debug\netcoreapp2.2\Eulerian.csproj.CoreCompileInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week2\Eulerian\Eulerian\obj\Debug\netcoreapp2.2\Eulerian.AssemblyInfoInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week2\Eulerian\Eulerian\obj\Debug\netcoreapp2.2\Eulerian.AssemblyInfo.cs
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week2\Eulerian\Eulerian\bin\Debug\netcoreapp2.2\Eulerian.deps.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week2\Eulerian\Eulerian\bin\Debug\netcoreapp2.2\Eulerian.runtimeconfig.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week2\Eulerian\Eulerian\bin\Debug\netcoreapp2.2\Eulerian.runtimeconfig.dev.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week2\Eulerian\Eulerian\bin\Debug\netcoreapp2.2\Eulerian.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week2\Eulerian\Eulerian\bin\Debug\netcoreapp2.2\Eulerian.pdb
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week2\Eulerian\Eulerian\obj\Debug\netcoreapp2.2\Eulerian.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week2\Eulerian\Eulerian\obj\Debug\netcoreapp2.2\Eulerian.pdb

@@ -6,12 +6,6 @@ using System.Linq;
 
 namespace Diet
 {
-    enum AnswerType
-    {
-        NoAnswer = 0,
-        BoundedAnswer = 1,
-        Infinity = 2
-    }
     class Program
     {
         static void Main(string[] args)

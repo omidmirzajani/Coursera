@@ -1,0 +1,11 @@
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week3\BubbleDetection\BubbleDetection\bin\Debug\netcoreapp2.2\BubbleDetection.deps.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week3\BubbleDetection\BubbleDetection\bin\Debug\netcoreapp2.2\BubbleDetection.runtimeconfig.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week3\BubbleDetection\BubbleDetection\bin\Debug\netcoreapp2.2\BubbleDetection.runtimeconfig.dev.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week3\BubbleDetection\BubbleDetection\bin\Debug\netcoreapp2.2\BubbleDetection.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week3\BubbleDetection\BubbleDetection\bin\Debug\netcoreapp2.2\BubbleDetection.pdb
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week3\BubbleDetection\BubbleDetection\obj\Debug\netcoreapp2.2\BubbleDetection.csprojAssemblyReference.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week3\BubbleDetection\BubbleDetection\obj\Debug\netcoreapp2.2\BubbleDetection.csproj.CoreCompileInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week3\BubbleDetection\BubbleDetection\obj\Debug\netcoreapp2.2\BubbleDetection.AssemblyInfoInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week3\BubbleDetection\BubbleDetection\obj\Debug\netcoreapp2.2\BubbleDetection.AssemblyInfo.cs
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week3\BubbleDetection\BubbleDetection\obj\Debug\netcoreapp2.2\BubbleDetection.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week3\BubbleDetection\BubbleDetection\obj\Debug\netcoreapp2.2\BubbleDetection.pdb

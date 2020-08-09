@@ -1,0 +1,11 @@
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week1\Genome\Genome\bin\Debug\netcoreapp2.2\Genome.deps.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week1\Genome\Genome\bin\Debug\netcoreapp2.2\Genome.runtimeconfig.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week1\Genome\Genome\bin\Debug\netcoreapp2.2\Genome.runtimeconfig.dev.json
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week1\Genome\Genome\bin\Debug\netcoreapp2.2\Genome.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week1\Genome\Genome\bin\Debug\netcoreapp2.2\Genome.pdb
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week1\Genome\Genome\obj\Debug\netcoreapp2.2\Genome.csprojAssemblyReference.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week1\Genome\Genome\obj\Debug\netcoreapp2.2\Genome.csproj.CoreCompileInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week1\Genome\Genome\obj\Debug\netcoreapp2.2\Genome.AssemblyInfoInputs.cache
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week1\Genome\Genome\obj\Debug\netcoreapp2.2\Genome.AssemblyInfo.cs
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week1\Genome\Genome\obj\Debug\netcoreapp2.2\Genome.dll
+C:\GitHub\Coursera\UCSanDiego Data Structure and Algorithms\Genome\Week1\Genome\Genome\obj\Debug\netcoreapp2.2\Genome.pdb

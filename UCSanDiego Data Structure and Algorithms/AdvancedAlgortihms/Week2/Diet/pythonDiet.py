@@ -111,7 +111,6 @@ def checkResult( n, mm, A, b, c, result, lastEquation, ans, bestScore ):
 
 def solve_diet_problem( n, mm, A, b, c, Big_number=VeryBigNumber ):
     addEquations(n, mm, A, b, Big_number)
-    # print(A, b)
     l = n + mm + 1
     ans = -1
     bestScore = -float('inf')
@@ -125,19 +124,15 @@ def solve_diet_problem( n, mm, A, b, c, Big_number=VeryBigNumber ):
             lastEquation = True
         As = [A[i] for i in usedIndex]
         bs = [b[i] for i in usedIndex]
-        # print(As, bs)
         solved, result = SolveEquation(copy.deepcopy(Equation(As, bs)))
-        # print(As, bs, result)
         if solved:
             isAccepted, ans, bestScore = checkResult(n, mm, A, b, c, result, lastEquation, ans, bestScore)
             if isAccepted:
                 bestResult = result
-    # print(A)
     return [ans, bestResult]
 
 
 def solve_diet_problem0( n, mm, A, b, c ):
-    # addEquations(n, mm, A, b, VeryBigNumber)
     res = linprog(-np.array(c), A, b)
     if 3 == res.status:
         ans = 1
